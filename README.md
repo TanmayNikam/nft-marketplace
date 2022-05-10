@@ -10,5 +10,4 @@ Make sure you are in the source file.
 
 **To run the development server on a local host scripts:** npm run start
 
-Good luck and have fun!
 
